@@ -13,7 +13,7 @@
 - 🏙️ I live in: Santa Fe, Argentina
 - 🌱 I’m currently improving my Data Analytics skills
 - 💬 Ask me about gaming or anime!
-- 😄 Pronoun: He
+- 😄 Studies: I', pursuing a Engeneering degree in AI
 - ⚡ Interesting fact about me: I'm chemical technician
 - ❤️ Hobbies: Football 😍, modeling, programming, music (listen&play)
 <h1></h1>

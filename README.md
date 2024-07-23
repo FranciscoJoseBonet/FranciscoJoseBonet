@@ -3,13 +3,11 @@
     <h1></h1>
   </p>
 <h2>I'm Francisco Bonet 👾🖖</h2>
-
-<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="390" height="280" />
+<img align="right" src="python_img_readme_github.jpg" width="420" height="240" />
 
 ![](https://komarev.com/ghpvc/?username=FranciscoJoseBonet&style=flat-square&color=blueviolet) 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/franciscojosebonet/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:franciscojosebonet@gmail.com)
-
 
 
 - 🏙️ I live in: Santa Fe, Argentina
@@ -18,5 +16,4 @@
 - 😄 Pronoun: He
 - ⚡ Interesting fact about me: I'm chemical technician
 - ❤️ Hobbies: Football 😍, modeling, programming, music (listen&play)
-
-
+<h1></h1>

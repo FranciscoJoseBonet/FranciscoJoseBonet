@@ -1,5 +1,5 @@
   <p align='center'>
-    <a><img src="https://readme-typing-svg.demolab.com?font=inconsolata&size=25&duration=3500&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Hello+there%F0%9F%91%8B+.+.+.;Welcome+to+my+GitHub+Profile!!!" alt="Typing SVG"/></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=28949C&repeat=false&width=435&lines=Hello+There+%F0%9F%91%BD+.+.+.;Welcome+to+my+GitHub+profile!!!" alt="Typing SVG" /></a>
     <h1></h1>
   </p>
 <h2>I'm Francisco Bonet 👾🖖</h2>

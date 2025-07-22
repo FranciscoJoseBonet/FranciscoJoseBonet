@@ -13,7 +13,7 @@
 🌟 About Me
 🏙️ Location: Santa Fe, Argentina
 
-🌱 Currently improving: Data Analytics skills
+🌱 Currently improving: DataBase skills
 
 💬 Ask me about: Gaming or Anime!
 
